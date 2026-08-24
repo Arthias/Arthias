@@ -1,10 +1,10 @@
 # Hi, I'm Bruno 👋
 
-Engineering leader turned independent technical advisor, based in Italy (CET). Ten-plus years bridging exec strategy and hands-on engineering across FinTech, banking, and e-commerce — now focused on AI adoption and building agentic tooling myself, not just advising on it.
+Engineering leader and independent technical advisor, based in Italy (CET). Ten-plus years bridging exec strategy and hands-on engineering across FinTech, banking, and e-commerce. Now focused on AI adoption and building agentic tooling myself, not just advising on it.
 
 - 🔭 Building **[Artemis Quiver](https://github.com/Arthias/Artemis-Quiver-Releases)** — an AI-powered job-search Chrome extension + SPA (multi-provider LLM support, local-first data, versioned releases)
 - 🧠 Advising startups on AI-adoption roadmaps and fractional CTO work
-- 🌱 Exploring on-device AI on Android (Sotto, LocaLLM) — small local models, zero cloud egress
+- 🌱 Exploring on-device AI on Android with small local models, zero cloud egress
 - 📍 Previously: Toptal, BBVA, Globant, Atos
 - 💬 Ask me about legacy modernization, AI-native dev workflows, or engineering leadership at scale
 
