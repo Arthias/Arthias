@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋
 
-<!--
-**Arthias/Arthias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader turned independent technical advisor, based in Italy (CET). Ten-plus years bridging exec strategy and hands-on engineering across FinTech, banking, and e-commerce — now focused on AI adoption and building agentic tooling myself, not just advising on it.
 
-Here are some ideas to get you started:
+- 🔭 Building **[Artemis Quiver](https://github.com/Arthias/Artemis-Quiver-Releases)** — an AI-powered job-search Chrome extension + SPA (multi-provider LLM support, local-first data, versioned releases)
+- 🧠 Advising startups on AI-adoption roadmaps and fractional CTO work
+- 🌱 Exploring on-device AI on Android (Sotto, LocaLLM) — small local models, zero cloud egress
+- 📍 Previously: Toptal, BBVA, Globant, Atos
+- 💬 Ask me about legacy modernization, AI-native dev workflows, or engineering leadership at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my active work lives in private repos — this is just the landing page.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-manfredi)
+
+`Java` · `Python` · `TypeScript` · `AWS` · `GCP` · `Docker` · `Kubernetes`
